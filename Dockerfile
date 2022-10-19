@@ -1,2 +1,2 @@
 FROM tomcat:8
-copy target/account-v1.jar /usr/local/tomcat/webapps/
+copy target/cloths-0.0.1-SNAPSHOT.jar /usr/local/tomcat/webapps/
